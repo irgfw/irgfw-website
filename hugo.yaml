@@ -1,0 +1,76 @@
+title: IRGFW
+
+# import hextra as module
+module:
+  imports:
+  - path: github.com/imfing/hextra
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      pageRef: /blog
+      weight: 1
+    - identifier: contact
+      name: Contact
+      pageRef: /contact
+      weight: 2
+    - name: Search
+      weight: 3
+      params:
+        type: search
+    - name: Email
+      weight: 4
+      url: "mailto:irgfw@proton.me"
+      params:
+        icon: email
+    - name: Telegram
+      weight: 5
+      url: "https://t.me/irgfw"
+      params:
+        icon: telegram
+    - name: X
+      weight: 6
+      url: "https://x.com/ir_gfw"
+      params:
+        icon: x
+    - name: GitHub
+      weight: 7
+      url: "https://github.com/irgfw"
+      params:
+        icon: github
+    - name: Reddit
+      weight: 8
+      url: "https://reddit.com/r/irgfw"
+      params:
+        icon: reddit
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: false
+
+  footer:
+    displayCopyright: false
+    displayPoweredBy: true
+
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+  fa:
+    languageName: فارسی
+    weight: 2
+    languageDirection: rtl
+
