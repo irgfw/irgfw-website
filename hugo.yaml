@@ -17,6 +17,28 @@ markup:
 
 enableInlineShortcodes: true
 
+params:
+  # Theme
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
+
+  # Search
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content
+  navbar:
+    displayTitle: true
+    displayLogo: false
+  footer:
+    displayTitle: true
+    displayCopyright: true
+    displayPoweredBy: false
+
 menu:
   main:
     - identifier: posts
@@ -57,14 +79,6 @@ menu:
       params:
         icon: reddit
 
-params:
-  navbar:
-    displayTitle: true
-    displayLogo: false
-
-  footer:
-    displayCopyright: false
-    displayPoweredBy: true
 
 defaultContentLanguage: en
 languages:
