@@ -1,5 +1,6 @@
 ---
-title: IRGFW - پست ها
+title: پست ها
+toc: false
 ---
 ---
 

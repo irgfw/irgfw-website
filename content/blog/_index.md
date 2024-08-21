@@ -1,5 +1,6 @@
 ---
-title: IRGFW - Posts
+title: Posts
+toc: false
 ---
 ---
 
