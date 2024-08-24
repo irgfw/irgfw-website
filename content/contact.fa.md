@@ -31,6 +31,6 @@ toc: false
 #### Explore
 
 {{< cards >}}
-  {{< card link="blog" title="پست‌ها" icon="annotation" >}}
-  {{< card link="contact" title="ارتباط" icon="at-symbol" >}}
+  {{< card link="/blog" title="پست‌ها" icon="annotation" >}}
+  {{< card link="/contact" title="ارتباط" icon="at-symbol" >}}
 {{< /cards >}}

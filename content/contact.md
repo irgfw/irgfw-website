@@ -31,6 +31,6 @@ Your insights and contributions are highly valued. Please reach out if you have 
 #### Explore
 
 {{< cards >}}
-  {{< card link="blog" title="Posts" icon="annotation" >}}
-  {{< card link="contact" title="Contact" icon="at-symbol" >}}
+  {{< card link="/blog" title="Posts" icon="annotation" >}}
+  {{< card link="/contact" title="Contact" icon="at-symbol" >}}
 {{< /cards >}}
