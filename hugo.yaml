@@ -38,6 +38,8 @@ params:
     displayTitle: true
     displayCopyright: true
     displayPoweredBy: false
+  
+summaryLength: 5
 
 menu:
   main:
@@ -79,7 +81,6 @@ menu:
       params:
         icon: reddit
 
-
 defaultContentLanguage: en
 languages:
   en:
@@ -89,4 +90,3 @@ languages:
     languageName: فارسی
     weight: 2
     languageDirection: rtl
-
