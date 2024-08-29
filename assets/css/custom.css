@@ -1,13 +1,13 @@
 
 /* Apply font to all Persian text */
 [lang="fa"], [dir="rtl"] {
-    font-family: 'Vazirmatn', sans-serif;
+    font-family: "Vazirmatn", sans-serif;
     font-optical-sizing: auto;
 }
 
 /* Apply font to all Persian text */
 [lang="en"] {
-    font-family: 'Lato', sans-serif;
+    font-family: "Lato", sans-serif;
     font-optical-sizing: auto;
 }
 
