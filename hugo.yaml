@@ -38,7 +38,14 @@ params:
     displayTitle: true
     displayCopyright: true
     displayPoweredBy: false
-  
+    
+  customCSS: 
+    - css/custom.css 
+
+  customCSS:
+    head: |
+      <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
 summaryLength: 5
 
 menu:
