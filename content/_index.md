@@ -19,3 +19,11 @@ Stay informed, stay connected, and gain a deep understanding of the firewalls an
   {{< card link="blog" title="Posts" icon="annotation" >}}
   {{< card link="contact" title="Contact" icon="at-symbol" >}}
 {{< /cards >}}
+
+
+<div style="text-align: center; margin-top: 1em;">
+{{< hextra/hero-badge link="index.xml" >}}
+  <span>RSS Feed</span>
+  {{< icon name="rss" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
+</div>
