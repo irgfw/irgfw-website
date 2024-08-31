@@ -29,9 +29,11 @@ toc: false
 ما از نظرات و مشارکت‌های شما بسیار قدردانی می‌کنیم. لطفاً در صورت داشتن اطلاعات مرتبط با ما تماس بگیرید.
 
 
+<br>
+
 #### پیمایش
 
 {{< cards >}}
-  {{< card link="/blog" title="پست‌ها" icon="annotation" >}}
-  {{< card link="/contact" title="ارتباط" icon="at-symbol" >}}
+  {{< card link="/fa/blog" title="پست‌ها" icon="annotation" >}}
+  {{< card link="/fa/contact" title="ارتباط" icon="at-symbol" >}}
 {{< /cards >}}
