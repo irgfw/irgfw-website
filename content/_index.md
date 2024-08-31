@@ -21,7 +21,7 @@ Stay informed, stay connected, and gain a deep understanding of the firewalls an
 {{< /cards >}}
 
 
-<div style="text-align: center; margin-top: 1em;">
+<div class="rss">
 {{< hextra/hero-badge link="index.xml" >}}
   <span>RSS Feed</span>
   {{< icon name="rss" attributes="height=14" >}}
