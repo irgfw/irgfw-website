@@ -29,3 +29,8 @@
     background-color: rgba(128, 128, 128, 0.4); /* Darker background on hover */
     color: #000; /* Change icon color on hover */
   }
+
+.rss {
+  text-align: center;
+  margin-top: 2em;
+}
