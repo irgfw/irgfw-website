@@ -57,7 +57,7 @@ menu:
         type: search
     - name: Email
       weight: 4
-      url: "mailto:contact@irgfw.com"
+      url: "mailto:contact@irgfw.report"
       params:
         icon: email
     - name: Telegram
