@@ -9,7 +9,7 @@ toc: false
 
 
 <div style="text-align: center;">
-  <a href="mailto:irgfw@proton.me" class="icon-link">
+  <a href="mailto:contact@irgfw.report" class="icon-link">
     {{< icon "email" >}}
   </a>
   <a href="https://t.me/irgfw" class="icon-link">
