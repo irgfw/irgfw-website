@@ -1,3 +1,3 @@
 ## IRGFW Website
 
-#### https://irgfw.com
+#### https://irgfw.report
