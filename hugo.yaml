@@ -39,7 +39,7 @@ params:
     displayCopyright: true
     displayPoweredBy: false
 
-summaryLength: 5
+summaryLength: 8
 
 menu:
   main:
