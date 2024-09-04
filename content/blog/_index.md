@@ -1,6 +1,6 @@
 ---
 title: Posts
-toc: false
+toc: true
 ---
 ---
 
