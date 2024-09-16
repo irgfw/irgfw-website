@@ -75,11 +75,6 @@ menu:
       url: "https://github.com/irgfw"
       params:
         icon: github
-    - name: Reddit
-      weight: 8
-      url: "https://reddit.com/r/irgfw"
-      params:
-        icon: reddit
 
 defaultContentLanguage: en
 languages:
