@@ -21,9 +21,6 @@ toc: false
   <a href="https://github.com/irgfw" class="icon-link">
     {{< icon "github" >}}
   </a>
-  <a href="https://www.reddit.com/r/irgfw" class="icon-link">
-    {{< icon "reddit" >}}
-  </a>
 </div>
 
 ما از نظرات و مشارکت‌های شما بسیار قدردانی می‌کنیم. لطفاً در صورت داشتن اطلاعات مرتبط با ما تماس بگیرید.
