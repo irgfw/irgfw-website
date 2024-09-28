@@ -1,6 +1,6 @@
 ---
-title: "IRGFW Update"
-date: 2024-09-11
+title: "Current Internet Situation in Iran: Updates and Speculations"
+date: 2024-09-28
 toc: false
 ---
 ---
