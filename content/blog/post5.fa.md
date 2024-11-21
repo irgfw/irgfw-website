@@ -12,12 +12,12 @@ toc: false
 
 <br>
 
-MahsaServer Radar
+رادار مهساسرور
 ![Mahsaserver Radar 21nov2024](https://github.com/user-attachments/assets/229274ef-2118-4490-8b74-17ec7ae0dc32)
 
 <br>
 
-Cloudflare Radar
+رادار کلادفلر
 ![Cloudflare Radar 21nov2024](https://github.com/user-attachments/assets/84f415da-5163-475e-84d0-40dea732fb0e)
 
 
