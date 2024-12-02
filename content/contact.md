@@ -5,7 +5,7 @@ toc: false
 ---
 
 
-#### If you have any questions or just want to get in touch, feel free to reach out through any of the following channels:
+#### If you have any questions or want to get in touch, feel free to reach out through any of the following channels:
 
 
 <div style="text-align: center;">
@@ -23,11 +23,11 @@ toc: false
   </a>
 </div>
 
-Your insights and contributions are highly valued. Please reach out if you have relevant information to share.
+Your insights and contributions are highly valued. Please don't hesitate to reach out if you have relevant information.
 
 
 #### Donation:
-Donations fund future projects, research, support developers, and drive innovation.
+Donations help support future projects, research, and developers, allowing us to continue improving and contributing to the community. Your support, no matter the size, makes a meaningful difference.
 
 <div class="donation-wrapper">
   <div class="donation-div">
