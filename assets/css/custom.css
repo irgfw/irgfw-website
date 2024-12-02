@@ -2,34 +2,53 @@
 
 /* Apply font to all Persian text */
 [lang="fa"], [dir="rtl"] {
-    font-family: "Vazirmatn", sans-serif;
-    font-optical-sizing: auto;
+  font-family: "Vazirmatn", sans-serif;
+  font-optical-sizing: auto;
 }
 
-/* Apply font to all Persian text */
+/* Apply font to all English text */
 [lang="en"] {
-    font-family: "Lato", sans-serif;
-    font-optical-sizing: auto;
+  font-family: "Lato", sans-serif;
+  font-optical-sizing: auto;
 }
 
 .icon-link {
-    text-decoration: none;
-    font-size: 2em;
-    margin: 0 10px;
-    margin-top: 1em;
-    background-color: rgba(128, 128, 128, 0.2);
-    padding: 10px;
-    border-radius: 5px;
-    display: inline-block;
-    line-height: 1;
-    color: inherit;
-    transition: background-color 0.3s, color 0.3s;
+  text-decoration: none;
+  font-size: 2em;
+  margin: 0 10px;
+  margin-top: 1em;
+  background-color: rgba(128, 128, 128, 0.2);
+  padding: 10px;
+  border-radius: 5px;
+  display: inline-block;
+  line-height: 1;
+  color: inherit;
+  transition: background-color 0.3s, color 0.3s;
   }
 
-  .icon-link:hover {
-    background-color: rgba(128, 128, 128, 0.4); /* Darker background on hover */
-    color: #000; /* Change icon color on hover */
-  }
+.icon-link:hover {
+  background-color: rgba(128, 128, 128, 0.4);
+}
+
+.donation-wrapper {
+  margin-top: 1em;
+  text-align: center;
+}
+
+.donation-div {
+  font-size: 1em;
+  background-color: rgba(128, 128, 128, 0.2);
+  padding: 21px;
+  border-radius: 13px;
+  transition: background-color 0.3s, color 0.3s;
+  text-align: center;
+  direction: ltr;
+}
+
+.donation-div:hover {
+  background-color: rgba(128, 128, 128, 0.4);
+
+}
 
 .rss {
   text-align: center;
