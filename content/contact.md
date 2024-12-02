@@ -26,7 +26,7 @@ toc: false
 Your insights and contributions are highly valued. Please don't hesitate to reach out if you have relevant information.
 
 
-#### Donation:
+#### Donations
 Donations help support future projects, research, and developers, allowing us to continue improving and contributing to the community. Your support, no matter the size, makes a meaningful difference.
 
 <div class="donation-wrapper">
