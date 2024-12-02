@@ -26,6 +26,46 @@ toc: false
 Your insights and contributions are highly valued. Please reach out if you have relevant information to share.
 
 
+#### Donation:
+Donations fund future projects, research, support developers, and drive innovation.
+
+<div class="donation-wrapper">
+  <div class="donation-div">
+    <div class="div1">
+      <strong>BTC</strong>
+    </div>
+    bc1qphng25ttck6ftg3eefskn09jnk2w465lxx53r4
+  </div>
+</div>
+
+<div class="donation-wrapper">
+  <div class="donation-div">
+    <div>
+     <strong>ETH</strong> 
+    </div>
+    0x0669D73045322f0F1C531b9b302A677B6f39dd2A
+  </div>
+</div>
+
+<div class="donation-wrapper">
+  <div class="donation-div">
+    <div>
+      <strong>TON</strong> 
+    </div>
+    UQCeRyeG2ZBNrNxPr-_hZDiI0qWYliuMyDwVwh7ujMxzszdc
+  </div>
+</div>
+
+<div class="donation-wrapper">
+  <div class="donation-div">
+    <div>
+      <strong>TRX</strong> 
+    </div>
+    TU89jianXDAqafu4UkQMYM3X8qHZKuz1JK
+  </div>
+</div>
+
+
 <br>
 
 #### Explore
