@@ -17,6 +17,9 @@ While QUIC and UDP can provide better performance and speed than TCP-based proxi
 
 During critical or high-security periods, UDP and all protocols based on it are typically the first to be completely blocked.
 
+Cloudflare Radar:
+![IRGFW-CF-QUIC](https://github.com/user-attachments/assets/1924f86d-e6ed-44c7-b0d7-f6365d85f2a2)
+
 
 <br>
 
