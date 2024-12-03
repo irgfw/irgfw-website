@@ -1,23 +1,17 @@
 ---
-title: "International Bandwidth and Quality Reduction"
-date: 2024-11-21
+title: "International Bandwidth and TLS Disruptions in Iran"
+date: 2024-10-02
 toc: false
 ---
 ---
 
-Since the afternoon of November 21st, a noticeable reduction in international bandwidth has been reported. This issue is clearly observable in [Cloudflare radar](https://radar.cloudflare.com/ir?dateStart=2024-11-14&dateEnd=2024-11-22) data, showing reduced traffic towards its services. Additionally, significant disruptions have been recorded on the [MahsaServer radar](https://mahsaserver.com/radar), further confirming the problem.
+In recent hours, noticeable changes in Iran's internet bandwidth and latency to foreign IPs have been observed. Overall, the speed and bandwidth of international connections have decreased, and latency has reached higher than usual.
 
-So far, there is no evidence of new changes to the national firewall or filtering policies. It appears that these disruptions are primarily related to a decline in overall quality and the bandwidth allocated for international connections. This reduction in quality has been observed across all major operators in the country, including MCI (Hamrah-e-Aval), IranCell, Telecommunication Company of Iran (TCI), and even the main infrastructure (TIC) data center.
+These changes are primarily evident in TLS connections. IRGFW prevents prolonged TCP-TLS connections, causing them to experience disruptions or restrictions after a few minutes. However, immediately after establishing a new connection and completing the handshake process, the tunnel works correctly, only to face restrictions again after a few minutes. This issue does not affect all foreign IPs but is more prominent with well-known foreign data centers and CIDR ranges monitored by Iran's firewall.
 
-<br>
-
-MahsaServer Radar
-![Mahsaserver Radar 21nov2024](https://github.com/user-attachments/assets/229274ef-2118-4490-8b74-17ec7ae0dc32)
+It is difficult to say whether these changes have been implemented deliberately or are due to increased internet traffic load or even the use of Anti-DDoS systems in security-related scenarios. However, the restrictions on TCP-TLS connections seem more likely to result from specific firewall rules (either filtering or DDoS protection rules to prevent cyberattacks) rather than increased traffic load.
 
 <br>
-
-Cloudflare Radar
-![Cloudflare Radar 21nov2024](https://github.com/user-attachments/assets/84f415da-5163-475e-84d0-40dea732fb0e)
 
 #### Explore
 
