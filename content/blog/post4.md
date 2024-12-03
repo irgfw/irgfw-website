@@ -1,15 +1,18 @@
 ---
-title: "International Bandwidth and TLS Disruptions in Iran"
-date: 2024-10-02
+title: "Current Internet Situation in Iran: Updates and Speculations"
+date: 2024-09-28
 toc: false
 ---
 ---
 
-In recent hours, noticeable changes in Iran's internet bandwidth and latency to foreign IPs have been observed. Overall, the speed and bandwidth of international connections have decreased, and latency has reached higher than usual.
+In the past few hours, following recent events, some unverified reports about internet outages or disruptions in Iran have surfaced. However, as of now, no official statement has been released by [AFTA](https://afta.gov.ir/) or Passive Defense Organization.
 
-These changes are primarily evident in TLS connections. IRGFW prevents prolonged TCP-TLS connections, causing them to experience disruptions or restrictions after a few minutes. However, immediately after establishing a new connection and completing the handshake process, the tunnel works correctly, only to face restrictions again after a few minutes. This issue does not affect all foreign IPs but is more prominent with well-known foreign data centers and CIDR ranges monitored by Iran's firewall.
+The only update is from the Infrastructure Communications Company, which has informed Iranian data centers like Arvan, Asiatech, Pishgaman, and Hostiran that due to "infrastructure changes," from midnight until around 8 AM (UTC+03:30), Iranian servers and services may experience disruptions. These "infrastructure changes" could involve a variety of processes, and it's not confirmed whether it's specifically related to Iran's firewall or limiting access to most of Iran's bandwidth.
 
-It is difficult to say whether these changes have been implemented deliberately or are due to increased internet traffic load or even the use of Anti-DDoS systems in security-related scenarios. However, the restrictions on TCP-TLS connections seem more likely to result from specific firewall rules (either filtering or DDoS protection rules to prevent cyberattacks) rather than increased traffic load.
+However, in the last few minutes, there's been an increase in latency (ping) towards some foreign IPs, particularly Cloudflare, as observed on [MahsaServer Radar](https://www.mahsaserver.com/radar/).
+
+Overall, no major disruptions have been noticed yet in Iran's internet, but that doesn't mean the situation won't change in the next few hours or days.
+
 
 <br>
 
