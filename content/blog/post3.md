@@ -27,8 +27,8 @@ Considering the upcoming anniversary of [Mahsa Amini](https://en.wikipedia.org/w
 <br>
 
 #### Explore
-
 {{< cards >}}
   {{< card link="/blog" title="Posts" icon="annotation" >}}
+  {{< card link="/projects" title="Projects" icon="document-text" >}}
   {{< card link="/contact" title="Contact" icon="at-symbol" >}}
 {{< /cards >}}

@@ -37,16 +37,15 @@
   background-color: rgba(255, 154, 0, 0.4);
 }
 
-.report-card {
+.projects-card {
   border-width: 1px;
   border-color: gray;
   border-style: dotted;
   background: radial-gradient(ellipse at 50% 80%,rgba(255, 154, 0, 0.2),hsla(0, 0%, 100%, 0));
-  text-align: center;
   transition: background-color 0.3s, color 0.3s;
 }
 
-.report-card:hover {
+.projects-card:hover {
   background-color: rgba(255, 154, 0, 0.3);
   border-width: 1px;
   border-color: gray;

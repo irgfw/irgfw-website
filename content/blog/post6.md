@@ -19,9 +19,10 @@ MahsaServer Radar
 Cloudflare Radar
 ![Cloudflare Radar 21nov2024](https://github.com/user-attachments/assets/84f415da-5163-475e-84d0-40dea732fb0e)
 
-#### Explore
 
+#### Explore
 {{< cards >}}
   {{< card link="/blog" title="Posts" icon="annotation" >}}
+  {{< card link="/projects" title="Projects" icon="document-text" >}}
   {{< card link="/contact" title="Contact" icon="at-symbol" >}}
 {{< /cards >}}

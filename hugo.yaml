@@ -36,7 +36,7 @@ params:
     displayLogo: true
     logo:
       path: images/irgfw-logo-circle.png
-      dark: images/irgfw-logo-dark-png.png
+      dark: images/irgfw-logo-svg-dark.svg
       link: /
       width: 40
       height: 20
@@ -51,33 +51,37 @@ menu:
   main:
     - identifier: posts
       name: Posts
-      pageRef: /blog
       weight: 1
+      pageRef: /blog
+    - identifier: projects
+      name: Projects
+      weight: 2
+      pageRef: /projects
     - identifier: contact
       name: Contact
-      pageRef: /contact
-      weight: 2
-    - name: Search
       weight: 3
+      pageRef: /contact
+    - name: Search
+      weight: 4
       params:
         type: search
     - name: Email
-      weight: 4
+      weight: 5
       url: "mailto:contact@irgfw.report"
       params:
         icon: email
     - name: Telegram
-      weight: 5
+      weight: 6
       url: "https://t.me/irgfw"
       params:
         icon: telegram
     - name: X
-      weight: 6
+      weight: 7
       url: "https://x.com/ir_gfw"
       params:
         icon: x
     - name: GitHub
-      weight: 7
+      weight: 8
       url: "https://github.com/irgfw"
       params:
         icon: github

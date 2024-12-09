@@ -8,7 +8,7 @@ toc: false
 #### If you have any questions or want to get in touch, feel free to reach out through any of the following channels:
 
 
-<div style="text-align: center;">
+<div class="contact-cards">
   <a href="mailto:contact@irgfw.report" class="icon-link">
     {{< icon "email" >}}
   </a>
@@ -72,5 +72,6 @@ Donations help support future projects, research, and developers, allowing us to
 
 {{< cards >}}
   {{< card link="/blog" title="Posts" icon="annotation" >}}
+  {{< card link="/projects" title="Projects" icon="document-text" >}}
   {{< card link="/contact" title="Contact" icon="at-symbol" >}}
 {{< /cards >}}
