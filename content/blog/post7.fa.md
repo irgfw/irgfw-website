@@ -25,8 +25,10 @@ toc: false
 
 
 <br>
+
 توییت بهزاد اکبری، مدیرعامل وقت شرکت ارتباطات زیرساخت 
 ![Behzad-Akbari-Tweet](https://github.com/user-attachments/assets/831cd51b-19cd-41df-806b-456db5bf99d7)
+
 
 
 #### پیمایش
