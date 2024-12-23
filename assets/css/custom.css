@@ -12,14 +12,21 @@
   font-optical-sizing: auto;
 }
 
+.contact-cards {
+  margin-top: 2em;
+  text-align: center;
+}
+
 .icon-link {
+  border-width: 1px;
+  border-color: gray;
+  border-style: dotted;
   text-decoration: none;
   font-size: 2em;
   margin: 0 10px;
-  margin-top: 1em;
-  background-color: rgba(128, 128, 128, 0.2);
   padding: 10px;
   border-radius: 5px;
+  background: radial-gradient(ellipse at 50% 80%,rgba(255, 154, 0, 0.2),hsla(0, 0%, 100%, 0));
   display: inline-block;
   line-height: 1;
   color: inherit;
@@ -27,7 +34,22 @@
   }
 
 .icon-link:hover {
-  background-color: rgba(128, 128, 128, 0.4);
+  background-color: rgba(255, 154, 0, 0.4);
+}
+
+.projects-card {
+  border-width: 1px;
+  border-color: gray;
+  border-style: dotted;
+  background: radial-gradient(ellipse at 50% 80%,rgba(255, 154, 0, 0.2),hsla(0, 0%, 100%, 0));
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.projects-card:hover {
+  background-color: rgba(255, 154, 0, 0.3);
+  border-width: 1px;
+  border-color: gray;
+  border-style: dotted;
 }
 
 .donation-wrapper {
@@ -36,18 +58,18 @@
 }
 
 .donation-div {
-  font-size: 1em;
-  background-color: rgba(128, 128, 128, 0.2);
-  padding: 21px;
+  border-width: 1px;
+  border-color: gray;
+  border-style: dotted;
   border-radius: 13px;
+  background: radial-gradient(ellipse at 50% 80%,rgba(255, 154, 0, 0.2),hsla(0, 0%, 100%, 0));
+  font-size: 1em;
+  padding: 21px;
   transition: background-color 0.3s, color 0.3s;
-  text-align: center;
-  direction: ltr;
 }
 
 .donation-div:hover {
-  background-color: rgba(128, 128, 128, 0.4);
-
+  background-color: rgba(255, 154, 0, 0.4);
 }
 
 .rss {

@@ -15,9 +15,10 @@ toc: false
 
 <br>
 
-#### پیمایش
 
+#### پیمایش
 {{< cards >}}
-  {{< card link="blog" title="پست‌ها" icon="annotation" >}}
-  {{< card link="contact" title="ارتباط" icon="at-symbol" >}}
+  {{< card link="/fa/blog" title="پست‌ها" icon="annotation" >}}
+  {{< card link="/fa/projects" title="پروژه‌ها" icon="document-text" >}}
+  {{< card link="/fa/contact" title="ارتباط" icon="at-symbol" >}}
 {{< /cards >}}

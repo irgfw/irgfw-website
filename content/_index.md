@@ -16,11 +16,12 @@ Stay informed, stay connected, and gain a deep understanding of the firewalls an
 <br>
 
 #### Explore
-
 {{< cards >}}
-  {{< card link="blog" title="Posts" icon="annotation" >}}
-  {{< card link="contact" title="Contact" icon="at-symbol" >}}
+  {{< card link="/blog" title="Posts" icon="annotation" >}}
+  {{< card link="/projects" title="Projects" icon="document-text" >}}
+  {{< card link="/contact" title="Contact" icon="at-symbol" >}}
 {{< /cards >}}
+
 
 
 <div class="rss">
