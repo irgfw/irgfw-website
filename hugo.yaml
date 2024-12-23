@@ -36,7 +36,7 @@ params:
     displayLogo: true
     logo:
       path: images/irgfw-logo-circle.png
-      dark: images/irgfw-logo-svg-dark.svg
+      dark: images/irgfw-logo-dark-png.png
       link: /
       width: 40
       height: 20
