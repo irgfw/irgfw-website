@@ -24,7 +24,7 @@ Perhaps the future will reveal that the "preparedness to lift restrictions" was 
 
 <br>
 
-Behzad Atabaki Tweet, TIC CEO.
+Behzad Akbari, TIC CEO.
 ![Behzad-Atabaki-Tweet](https://github.com/user-attachments/assets/02d7e6ed-9bd6-49c8-80e3-c5ad2ce49d73)
 
 
