@@ -25,8 +25,8 @@ toc: false
 
 
 <br>
-توییت بهزاد اتابکی، مدیرعامل وقت شرکت ارتباطات زیرساخت 
-![Behzad-Atabaki-Tweet](https://github.com/user-attachments/assets/912f154b-9572-4432-85bb-1cc2494ee46a)
+توییت بهزاد اکبری، مدیرعامل وقت شرکت ارتباطات زیرساخت 
+![Behzad-Akbari-Tweet](https://github.com/user-attachments/assets/912f154b-9572-4432-85bb-1cc2494ee46a)
 
 
 #### پیمایش
