@@ -11,8 +11,8 @@ Here, you can explore an overview of our projects, research, reports, and public
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
-    title="Coming Soon" 
-    subtitle="Coming Soon"
+    title="Technical Analysis of the IRGFW" 
+    subtitle="Understanding The Iranian Great Firewall"
     link="/projects/project1"
     class="projects-card"
   >}}

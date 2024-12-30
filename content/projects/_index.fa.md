@@ -5,14 +5,14 @@ toc: false
 ---
 
 #### پروژه‌ها
-اینجا می توانید مروری بر پروژه ها، تحقیقات، گزارشات و انتشارات ما را داشته باشید.
+اینجا می توانید مروری بر پروژه‌ها، تحقیقات، گزارشات و انتشارات ما را داشته باشید.
 
 <br>
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
-    title="به‌زودی"
-    subtitle="به‌زودی"
+    title="تحلیل فنی IRGFW"
+    subtitle="شناخت فایروال بزرگ ایران"
     link="/fa/projects/project1"
     class="projects-card"
   >}}
