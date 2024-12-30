@@ -1,11 +1,22 @@
 ---
-title: Coming Soon 
+title: Projects
 toc: false
 ---
 ---
 
-#### Coming Soon
-Coming Soon
+#### Projects
+Here, you can explore an overview of our projects, research, reports, and publications.
+
+<br>
+
+{{< hextra/feature-grid >}}
+  {{< hextra/feature-card
+    title="Technical Analysis of the IRGFW" 
+    subtitle="Understanding The Iranian Great Firewall"
+    link="/projects/project1"
+    class="projects-card"
+  >}}
+{{< /hextra/feature-grid >}}
 
 <br>
 
