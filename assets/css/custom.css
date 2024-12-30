@@ -52,6 +52,38 @@
   border-style: dotted;
 }
 
+.projects-card h3 {
+  line-height: 2rem;
+}
+
+.dl-btn-wrapper {
+  margin-top: 2em;
+  text-align: center;
+}
+
+.dl-btn-div {
+  border-width: 1px;
+  border-color: gray;
+  border-style: dotted;
+  border-radius: 13px;
+  background: radial-gradient(ellipse at 50% 80%,rgba(255, 154, 0, 0.2),hsla(0, 0%, 100%, 0));
+  font-size: 1em;
+  padding: 21px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.dl-btn-div:hover {
+  background-color: rgba(255, 154, 0, 0.4);
+}
+
+.btn-link {
+  text-decoration: none;
+  color: inherit;
+  text-shadow: 0 0 5px rgba(255, 154, 0, 0.8), /* Inner glow */
+               0 0 10px rgba(255, 154, 0, 0.6), /* Outer glow */
+               0 0 20px rgba(255, 154, 0, 0.4); /* Soft outer glow */
+}
+
 .donation-wrapper {
   margin-top: 1em;
   text-align: center;
