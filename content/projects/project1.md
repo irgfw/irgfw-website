@@ -8,7 +8,11 @@ date: 2024-12-30
 #### Understanding The Iranian Great Firewall
 ##### Report 1 - December 2024
 
-We introduce our first report, **Technical Analysis of the IRGFW: Understanding the Iranian Great Firewall**. This report, published in December 2024, offers a detailed technical examination of the IRGFW, its architecture, operational methods, and impacts. It covers topics such as Deep Packet Inspection _(DPI)_, DNS filtering, Active-Probing, and protocol behaviour. The report serves as a valuable resource for researchers and professionals who seek insights into the Islamic Regime of Iran’s internet censorship infrastructure.
+The first technical report on IRGFW, titled **Technical Analysis of IRGFW: Understanding Iran's Great Firewall**, is now available. This report comprehensively examines the infrastructure and operations of Iran's Great Firewall.
+
+Key topics covered in this report include the status of DNS, UDP, and QUIC, the state of IPs, active probes, DPI systems, and an overview of various protocols.
+
+This report serves as a thorough and precise resource for those interested in analyzing internet filtering methods in Iran. By sharing and distributing this report, you can raise awareness and foster a deeper understanding of internet censorship in Iran.
 
 Access the full report below for detailed analysis.
 
